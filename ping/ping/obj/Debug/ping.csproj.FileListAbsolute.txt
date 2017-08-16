@@ -1,0 +1,15 @@
+C:\Users\jobib\Desktop\ping\ping\bin\Debug\ping.exe.config
+C:\Users\jobib\Desktop\ping\ping\bin\Debug\ping.exe
+C:\Users\jobib\Desktop\ping\ping\bin\Debug\ping.pdb
+C:\Users\jobib\Desktop\ping\ping\obj\Debug\ping.csprojResolveAssemblyReference.cache
+C:\Users\jobib\Desktop\ping\ping\obj\Debug\ping.Form1.resources
+C:\Users\jobib\Desktop\ping\ping\obj\Debug\ping.Properties.Resources.resources
+C:\Users\jobib\Desktop\ping\ping\obj\Debug\ping.csproj.GenerateResource.Cache
+C:\Users\jobib\Desktop\ping\ping\obj\Debug\ping.exe
+C:\Users\jobib\Desktop\ping\ping\obj\Debug\ping.pdb
+E:\Dokumenter\Skole\Tech collegae\Datateknik\Programering\c#\ping\ping\bin\Debug\ping.exe.config
+E:\Dokumenter\Skole\Tech collegae\Datateknik\Programering\c#\ping\ping\obj\Debug\ping.exe
+E:\Dokumenter\Skole\Tech collegae\Datateknik\Programering\c#\ping\ping\obj\Debug\ping.pdb
+\\Jbi-win2016\e\Dokumenter\Skole\Tech collegae\Datateknik\Programering\c#\ping\ping\bin\Debug\ping.exe.config
+\\Jbi-win2016\e\Dokumenter\Skole\Tech collegae\Datateknik\Programering\c#\ping\ping\obj\Debug\ping.exe
+\\Jbi-win2016\e\Dokumenter\Skole\Tech collegae\Datateknik\Programering\c#\ping\ping\obj\Debug\ping.pdb
